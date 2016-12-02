@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "facing=north": {
+      "model": "doticbm:launch_control",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "doticbm:launch_control",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "doticbm:launch_control"
+    },
+    "facing=west": {
+      "model": "doticbm:launch_control",
+      "y": 90
+    },
+    "inventory": {
+      "model": "doticbm:launch_control"
+    }
+  }
+}

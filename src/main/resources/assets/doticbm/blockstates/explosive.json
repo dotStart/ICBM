@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "doticbm:explosive"
+    },
+    "inventory": {
+      "model": "doticbm:explosive"
+    }
+  }
+}

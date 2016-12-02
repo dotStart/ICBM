@@ -1,0 +1,9 @@
+{
+  "parent": "doticbm:block/cube_bottom_top_tinted",
+  "textures": {
+    "bottom": "doticbm:blocks/explosive_bottom",
+    "top": "doticbm:blocks/explosive_top",
+    "side": "doticbm:blocks/explosive_side",
+    "particle": "doticbm:blocks/explosive_side"
+  }
+}

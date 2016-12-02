@@ -1,0 +1,30 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "doticbm:launch_pad"
+  },
+  "variants": {
+    "damage": {
+      "0": {
+        "textures": {
+          "texture": "doticbm:blocks/launch_pad_obsidian_0"
+        }
+      },
+      "1": {
+        "textures": {
+          "texture": "doticbm:blocks/launch_pad_obsidian_1"
+        }
+      },
+      "2": {
+        "textures": {
+          "texture": "doticbm:blocks/launch_pad_obsidian_2"
+        }
+      },
+      "3": {
+        "textures": {
+          "texture": "doticbm:blocks/launch_pad_obsidian_3"
+        }
+      }
+    }
+  }
+}

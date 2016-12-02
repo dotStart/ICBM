@@ -1,0 +1,77 @@
+{
+  "parent": "doticbm:entity/rocket",
+  "display": {
+    "firstperson_lefthand": {
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "translation": [
+        3.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "firstperson_righthand": {
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "translation": [
+        3.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "thirdperson_righthand": {
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "translation": [
+        0.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "translation": [
+        0.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "gui": {
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "translation": [
+        0,
+        -1,
+        0
+      ]
+    },
+    "ground": {
+      "scale": [
+        3.0,
+        3.0,
+        3.0
+      ],
+      "translation": [
+        0.0,
+        2.0,
+        0.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "doticbm:block/launch_ignition",
+  "display": {
+    "gui": {
+      "translation": [
+        0,
+        1,
+        0
+      ]
+    }
+  }
+}

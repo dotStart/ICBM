@@ -1,0 +1,6 @@
+{
+  "parent": "doticbm:block/launch_pad",
+  "textures": {
+    "texture": "doticbm:blocks/launch_pad_stone_0"
+  }
+}

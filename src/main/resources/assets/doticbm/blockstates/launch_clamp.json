@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=0,part=blueprint": {
+      "model": "doticbm:launch_clamp"
+    },
+    "facing=1,part=blueprint": {
+      "model": "doticbm:launch_clamp",
+      "y": 90
+    },
+    "facing=2,part=blueprint": {
+      "model": "doticbm:launch_clamp",
+      "y": 180
+    },
+    "facing=3,part=blueprint": {
+      "model": "doticbm:launch_clamp",
+      "y": 270
+    },
+    "facing=0,part=formed": {
+      "model": "cube"
+    },
+    "facing=1,part=formed": {
+      "model": "cube"
+    },
+    "facing=2,part=formed": {
+      "model": "cube"
+    },
+    "facing=3,part=formed": {
+      "model": "cube"
+    },
+    "facing=0,part=top_te": {
+      "model": "doticbm:launch_clamp"
+    },
+    "facing=1,part=top_te": {
+      "model": "doticbm:launch_clamp",
+      "y": 90
+    },
+    "facing=2,part=top_te": {
+      "model": "doticbm:launch_clamp",
+      "y": 180
+    },
+    "facing=3,part=top_te": {
+      "model": "doticbm:launch_clamp",
+      "y": 270
+    },
+    "facing=0,part=bottom_te": {
+      "model": "doticbm:launch_clamp_base"
+    },
+    "facing=1,part=bottom_te": {
+      "model": "doticbm:launch_clamp_base",
+      "y": 90
+    },
+    "facing=2,part=bottom_te": {
+      "model": "doticbm:launch_clamp_base",
+      "y": 180
+    },
+    "facing=3,part=bottom_te": {
+      "model": "doticbm:launch_clamp_base",
+      "y": 270
+    },
+    "inventory": {
+      "model": "doticbm:launch_clamp"
+    }
+  }
+}

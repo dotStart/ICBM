@@ -1,0 +1,43 @@
+### Items
+item.doticbm.explosive.useless.name=Useless Explosive
+item.doticbm.explosive.useless.description=Did you ask for a quiet *poof*?
+item.doticbm.explosive.anti_gravity.name=Anti-Gravity Explosive
+item.doticbm.explosive.anti_gravity.description=Did a cow just fly past us?
+item.doticbm.explosive.chemical.name=Chemical Explosive
+item.doticbm.explosive.chemical.description=OH MY GOD IT'S ALL IN MY EYES!
+item.doticbm.explosive.conventional.name=Conventional Explosive
+item.doticbm.explosive.conventional.description=For cases where a normal boom suffices!
+item.doticbm.explosive.dense.name=Dense Explosive
+item.doticbm.explosive.dense.description=More bang for your buck!
+item.doticbm.explosive.liquid.name=Liquid Explosive
+item.doticbm.explosive.liquid.description=Sploosh!
+item.doticbm.explosive.thermal.name=Thermal Explosive
+item.doticbm.explosive.thermal.description=Is it just me or is it warm in here?
+item.doticbm.explosive.rocket.useless.name=Useless Rocket
+item.doticbm.explosive.rocket.anti_gravity.name=Anti-Gravity Rocket
+item.doticbm.explosive.rocket.chemical.name=Chemical Rocket
+item.doticbm.explosive.rocket.conventional.name=Conventional Rocket
+item.doticbm.explosive.rocket.dense.name=Dense Rocket
+item.doticbm.explosive.rocket.liquid.name=Liquid Rocket
+item.doticbm.explosive.rocket.thermal.name=Thermal Rocket
+item.doticbm.location_reader.name=Location Reader
+item.doticbm.location_reader.distance=Distance to target: %.1f Blocks
+item.doticbm.location_reader.stored=Stored X: %.1f and Z: %.1f as target coordinates.
+item.doticbm.launch_pad.stone.name=Stone Launch Pad
+item.doticbm.launch_pad.brick.name=Brick Launch Pad
+item.doticbm.launch_pad.obsidian.name=Obsidian Launch Pad
+item.doticbm.rocket_bell.name=Thruster Bell
+item.doticbm.rocket_tank.name=Solid Fuel Tank
+item.doticbm.rocket_warhead.name=Empty Warhead Case
+### Blocks
+tile.doticbm.launch_control.name=Launch Controller
+tile.doticbm.launch_ignition.name=Launch Ignition
+tile.doticbm.launch_clamp.name=Launch Clamp
+### Containers
+container.doticbm.launcher.empty=Empty
+container.doticbm.launcher.coordinate.x=X-Coordinate: %.1f
+container.doticbm.launcher.coordinate.z=Z-Coordinate: %.1f
+container.doticbm.launcher.coordinate.unspecified=Unspecified
+container.doticbm.launcher.launch=Launch
+### Creative Tabs
+itemGroup.doticbm=ICBM Reborn

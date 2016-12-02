@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "doticbm:entity/rocket"
+    },
+    "inventory": {
+      "model": "doticbm:rocket"
+    }
+  }
+}

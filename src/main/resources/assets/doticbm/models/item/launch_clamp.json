@@ -1,0 +1,32 @@
+{
+  "parent": "doticbm:block/launch_clamp",
+  "display": {
+    "gui": {
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "translation": [
+        -2,
+        0,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    }
+  }
+}
+}
