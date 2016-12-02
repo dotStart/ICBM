@@ -21,6 +21,57 @@ minecraft {
     mappings = "snapshot_20160518"
 }
 
+sourceSets {
+    api
+}
+
+jar {
+    from sourceSets.api.output
+    dependsOn apiClasses
+
+    // specify which files are really included, can control which APIs should be in
+    include "tv/dotstart/mc/icbm/**"
+    include "assets/**"
+    include "mcmod.info"
+}
+
+javadoc {
+    options.encoding = 'UTF-8'
+    options.charSet = 'UTF-8'
+}
+
+task javadocs(type: Javadoc) {
+    source = sourceSets.api.java
+    include "tv/dotstart/mc/icbm/api/**"
+
+    classpath = configurations.compile + configurations.forgeGradleMc + configurations.forgeGradleMcDeps
+}
+
+task utilJar(type: Jar) {
+    from(sourceSets.api.output)
+}
+
+task javadocJar(type: Jar, dependsOn: javadocs) {
+    from javadoc.destinationDir
+    classifier = 'javadoc'
+}
+
+task apiJar(type: Jar) {
+    from sourceSets.api.java
+    include "tv/dotstart/mc/icbm/api/**"
+
+    from sourceSets.api.output
+    include "tv/dotstart/mc/icbm/api/**"
+
+    classifier = 'api'
+}
+
+artifacts {
+    archives apiJar
+    archives javadocJar
+    archives sourceJar
+}
+
 dependencies {
 }
 
