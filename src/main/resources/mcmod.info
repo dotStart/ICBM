@@ -1,0 +1,24 @@
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "doticbm",
+      "name": "ICBM Reborn",
+      "description": "A mod around fighting, rockets and other cool stuff",
+      "version": "0.1.0",
+      "mcversion": "1.10.2",
+      "url": "",
+      "updateUrl": "",
+      "authorList": [
+        ".start"
+      ],
+      "credits": "Developed live by .start",
+      "requiredMods": [
+        "Forge"
+      ],
+      "dependencies": [],
+      "dependants": [],
+      "useDependencyInformation": true
+    }
+  ]
+}
