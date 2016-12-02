@@ -46,7 +46,7 @@ import tv.dotstart.mc.icbm.common.item.RocketTankItem;
 import tv.dotstart.mc.icbm.common.item.RocketWarheadItem;
 import tv.dotstart.mc.icbm.common.network.handler.RocketLaunchHandler;
 import tv.dotstart.mc.icbm.common.network.message.RocketLaunchMessage;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Provides a common base type used to synchronize functionality between clients and servers.

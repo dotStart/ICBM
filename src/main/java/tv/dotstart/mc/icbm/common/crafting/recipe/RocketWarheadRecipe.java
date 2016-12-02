@@ -9,8 +9,8 @@ import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
 import tv.dotstart.mc.icbm.common.item.RocketItem;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
-import tv.dotstart.mc.icbm.explosive.ModularExplosiveCraftingComponent;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosiveCraftingComponent;
 
 /**
  * @author <a href="mailto:johannesd@torchmind.com">Johannes Donath</a>

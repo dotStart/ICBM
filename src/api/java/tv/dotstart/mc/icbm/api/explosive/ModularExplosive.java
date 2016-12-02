@@ -1,4 +1,4 @@
-package tv.dotstart.mc.icbm.explosive;
+package tv.dotstart.mc.icbm.api.explosive;
 
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.init.SoundEvents;

@@ -17,7 +17,7 @@ import tv.dotstart.mc.icbm.common.block.entity.AbstractBlockEntity;
 import tv.dotstart.mc.icbm.common.block.rocket.LaunchClampBlock;
 import tv.dotstart.mc.icbm.common.block.rocket.LaunchPadBlock;
 import tv.dotstart.mc.icbm.common.entity.rocket.RocketEntity;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Provides a block which is capable of containing and launching rockets (in form of {@link

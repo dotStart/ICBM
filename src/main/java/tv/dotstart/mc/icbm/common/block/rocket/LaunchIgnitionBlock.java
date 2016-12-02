@@ -22,7 +22,7 @@ import tv.dotstart.mc.icbm.common.block.AbstractBlockEntityBlock;
 import tv.dotstart.mc.icbm.common.block.entity.rocket.LaunchIgnitionBlockEntity;
 import tv.dotstart.mc.icbm.common.creative.ICBMCreativeTab;
 import tv.dotstart.mc.icbm.common.item.RocketItem;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Provides a block used for "guiding" rockets off the launch pad.

@@ -25,14 +25,14 @@ import tv.dotstart.mc.icbm.common.block.entity.rocket.LaunchIgnitionBlockEntity;
 import tv.dotstart.mc.icbm.common.inventory.LaunchControlContainer;
 import tv.dotstart.mc.icbm.common.item.RocketItem;
 import tv.dotstart.mc.icbm.common.network.message.RocketLaunchMessage;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Provides a client side GUI screen which is displayed to users which interact with any instance of
  * {@link tv.dotstart.mc.icbm.common.block.entity.rocket.LaunchControlBlockEntity}.
  *
  * This GUI provides the direct ability to gain coordinate information from instances of
- * {@link tv.dotstart.mc.icbm.rocket.CoordinateSourceItem} through adding them to the respective
+ * {@link tv.dotstart.mc.icbm.api.rocket.CoordinateSourceItem} through adding them to the respective
  * item slot as well as inspecting and launching the respective carrier rocket from a nearby
  * instance of {@link LaunchIgnitionBlockEntity} within the world.
  *

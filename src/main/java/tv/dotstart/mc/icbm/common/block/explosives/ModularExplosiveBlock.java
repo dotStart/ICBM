@@ -32,8 +32,8 @@ import tv.dotstart.mc.icbm.common.block.AbstractBlockEntityBlock;
 import tv.dotstart.mc.icbm.common.block.entity.explosives.ModularExplosiveBlockEntity;
 import tv.dotstart.mc.icbm.common.creative.ICBMCreativeTab;
 import tv.dotstart.mc.icbm.common.item.MetadataItem;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
-import tv.dotstart.mc.icbm.explosive.ModularExplosiveCraftingComponent;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosiveCraftingComponent;
 
 /**
  * Provides a block which provides a block representation of an explosive.

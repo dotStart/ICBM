@@ -14,7 +14,7 @@ import net.minecraftforge.common.model.TRSRTransformation;
 
 import tv.dotstart.mc.icbm.ICBMModification;
 import tv.dotstart.mc.icbm.common.block.entity.rocket.LaunchIgnitionBlockEntity;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Provides a tile entity renderer for handling the rendering of the launch ignition system.

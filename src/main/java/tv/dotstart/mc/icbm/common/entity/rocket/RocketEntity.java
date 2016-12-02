@@ -17,7 +17,7 @@ import javax.annotation.Nullable;
 import javax.annotation.Signed;
 
 import tv.dotstart.mc.icbm.ICBMModification;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Provides an entity which handles the behavior of a ballistic missile which carries a certain type

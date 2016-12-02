@@ -9,7 +9,7 @@ import javax.annotation.Nullable;
 
 import tv.dotstart.mc.icbm.ICBMModification;
 import tv.dotstart.mc.icbm.common.entity.explosives.gravity.AntiGravitySourceEntity;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * @author <a href="mailto:johannesd@torchmind.com">Johannes Donath</a>

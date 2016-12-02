@@ -14,8 +14,8 @@ import tv.dotstart.mc.icbm.common.item.RocketBellItem;
 import tv.dotstart.mc.icbm.common.item.RocketItem;
 import tv.dotstart.mc.icbm.common.item.RocketTankItem;
 import tv.dotstart.mc.icbm.common.item.RocketWarheadItem;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
-import tv.dotstart.mc.icbm.explosive.ModularExplosiveCraftingComponent;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosiveCraftingComponent;
 
 /**
  * @author <a href="mailto:johannesd@torchmind.com">Johannes Donath</a>

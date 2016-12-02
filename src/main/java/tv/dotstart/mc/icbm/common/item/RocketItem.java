@@ -22,7 +22,7 @@ import javax.annotation.Nonnull;
 import tv.dotstart.mc.icbm.ICBMModification;
 import tv.dotstart.mc.icbm.common.block.rocket.LaunchIgnitionBlock;
 import tv.dotstart.mc.icbm.common.creative.ICBMCreativeTab;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * @author <a href="mailto:johannesd@torchmind.com">Johannes Donath</a>

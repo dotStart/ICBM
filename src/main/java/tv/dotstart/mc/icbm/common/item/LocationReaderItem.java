@@ -20,7 +20,7 @@ import javax.annotation.Nullable;
 
 import tv.dotstart.mc.icbm.ICBMModification;
 import tv.dotstart.mc.icbm.common.creative.ICBMCreativeTab;
-import tv.dotstart.mc.icbm.rocket.CoordinateSourceItem;
+import tv.dotstart.mc.icbm.api.rocket.CoordinateSourceItem;
 
 /**
  * @author <a href="mailto:johannesd@torchmind.com">Johannes Donath</a>

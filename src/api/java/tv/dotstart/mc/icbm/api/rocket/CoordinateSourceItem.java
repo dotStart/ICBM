@@ -1,4 +1,4 @@
-package tv.dotstart.mc.icbm.rocket;
+package tv.dotstart.mc.icbm.api.rocket;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.math.BlockPos;

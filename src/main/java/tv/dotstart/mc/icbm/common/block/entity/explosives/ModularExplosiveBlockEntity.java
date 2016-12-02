@@ -11,7 +11,7 @@ import javax.annotation.Nullable;
 
 import tv.dotstart.mc.icbm.common.block.explosives.ModularExplosiveBlock;
 import tv.dotstart.mc.icbm.common.entity.explosives.ModularExplosiveEntity;
-import tv.dotstart.mc.icbm.explosive.ModularExplosive;
+import tv.dotstart.mc.icbm.api.explosive.ModularExplosive;
 
 /**
  * Stores information regarding the explosive which is contained in blocks of type {@link
