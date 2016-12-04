@@ -47,6 +47,7 @@ public class CustomDataSerializers {
         /**
          * {@inheritDoc}
          */
+        @Nonnull
         @Override
         public DataParameter<BlockPos[]> createKey(int id) {
             return new DataParameter<>(id, this);
