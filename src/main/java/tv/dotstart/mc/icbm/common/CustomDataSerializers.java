@@ -7,8 +7,6 @@ import net.minecraft.util.math.BlockPos;
 
 import org.apache.commons.lang3.ArrayUtils;
 
-import java.io.IOException;
-
 import javax.annotation.Nonnull;
 
 /**
@@ -34,7 +32,7 @@ public class CustomDataSerializers {
          */
         @Nonnull
         @Override
-        public BlockPos[] read(@Nonnull PacketBuffer buf) throws IOException {
+        public BlockPos[] read(@Nonnull PacketBuffer buf) {
             BlockPos[] value = new BlockPos[buf.readVarIntFromBuffer()];
 
             for (int i = 0; i < value.length; ++i) {
@@ -69,7 +67,7 @@ public class CustomDataSerializers {
          */
         @Nonnull
         @Override
-        public Integer[] read(@Nonnull PacketBuffer buf) throws IOException {
+        public Integer[] read(@Nonnull PacketBuffer buf) {
             return ArrayUtils.toObject(buf.readVarIntArray());
         }
 
